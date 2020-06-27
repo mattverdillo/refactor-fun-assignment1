@@ -7,6 +7,7 @@ Refactored code of Horiseon's main page in order to meet accessibility criteria.
 *HTML & *CSS
 
 ## Website
+https://mattverdillo.github.io/urban-octo-telegram/
 
 ## Finished Site Screenshots 
 <img width="999" alt="Screen Shot 2020-06-26 at 10 41 31 AM" src="https://user-images.githubusercontent.com/53850219/85876514-7345f580-b79b-11ea-99bd-895e0619866b.png">
